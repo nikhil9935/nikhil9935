@@ -17,7 +17,7 @@ A platform connecting job applicants with potential employers developed using Re
 ### [Entertainment Hub](https://nikentertainmenthub.netlify.app/)
 A place to explore and discover various forms of entertainment.
 
-### [Jarvis Voice Assistant](https://nikjarvis.netlify.app/) 
+### [Jarvis(Voice Assistant)](https://nikjarvis.netlify.app/) 
 Voice Assistant Developed Using HTML, CSS, JavaScript and Web Speech API.
 
 ## Skills 🚀:
