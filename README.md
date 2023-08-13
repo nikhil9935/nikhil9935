@@ -6,7 +6,7 @@ Passionate about Front End Development, I love bringing ideas to life through co
 
 ## My Achievements 🏆:
 
-- 🌟 Open-Source Contributor, cleared Hacktoberfest 2022.
+- 🌟 Open-Source Contributor, cleared [Hacktoberfest 2022](https://www.holopin.io/userbadge/cl93xh1jl669109lckuw34i2f).
 - 🚀 Finalist in [Iimt Mind Installers Hackathon](https://iimthackathon.netlify.app/), showcasing teamwork and problem-solving skills.
 
 ## Projects 🛠️:
