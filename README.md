@@ -2,7 +2,7 @@
 
 Passionate about Front End Development, I love bringing ideas to life through code. I'm experienced in HTML, CSS, JavaScript, ReactJS, APIs and Firebase. 🚀
 
-🌐 Check out my [Portfolio](https://nikhilportfoliowebsite.netlify.app/) and connect with me on [LinkedIn](https://www.linkedin.com/in/nikhil-maurya-7890091b9/).
+🌐 Check out my [Portfolio](https://nikhilportfoliowebsite.netlify.app/) , [Resume](https://nikhilresumes.netlify.app/) and connect with me on [LinkedIn](https://www.linkedin.com/in/nikhil-maurya-7890091b9/).
 
 ## My Achievements 🏆:
 
