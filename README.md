@@ -12,7 +12,7 @@ Passionate about Front End Development, I love bringing ideas to life through co
 ## Projects 🛠️:
 
 ### [Job Portal](https://nikhil9935.github.io/hrapplicantconnect-model/)
-A platform connecting job applicants with potential employers developed using ReactJS, NodeJS, ExpressJS, MongoDB.Uses the bcrypt library to hash a user's password with a cost factor 10.
+A platform connecting job applicants with potential employers developed using ReactJS, NodeJS, ExpressJS and MongoDB.Uses the bcrypt library to hash a user's password with a cost factor 10.
 
 ### [Entertainment Hub](https://nikentertainmenthub.netlify.app/)
 A place to explore and discover various forms of entertainment.
