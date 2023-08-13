@@ -2,6 +2,8 @@
 
 🌐 Check out my Portfolio and connect with me on LinkedIn. Passionate about Front End Development, I've brought ideas to life in projects like Job Portal, Entertainment Hub, Jarvis Voice Assistant and many more using HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB and Firebase.
 
+My Achievements:
+
 Open-Source Contributor, successfully cleared Hactoberfest 2022.
 
 Reached the final round of Iimt Mind Installers Hackathon among 250 participants showcasing Teamwork and
