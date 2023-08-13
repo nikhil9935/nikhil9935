@@ -18,7 +18,7 @@ A platform connecting job applicants with potential employers developed using Re
 A place to explore and discover various forms of entertainment. Integrated News, Quiz and Jokes API along with firebase database.
 
 ### [Jarvis(Voice Assistant)](https://nikjarvis.netlify.app/) 
-Voice Assistant Developed Using HTML,CSS,JavaScript and Web Speech API.API enabled task execution through natural voice commands.
+Voice Assistant Developed Using HTML,CSS,JavaScript and Web Speech API. API enabled task execution through natural voice commands.
 
 ## Skills 🚀:
 
