@@ -15,7 +15,7 @@ Passionate about Front End Development, I love bringing ideas to life through co
 A platform connecting job applicants with potential employers developed using ReactJS, NodeJS, ExpressJS and MongoDB.Uses the bcrypt library to hash a user's password with a cost factor 10.
 
 ### [Entertainment Hub](https://nikentertainmenthub.netlify.app/)
-A place to explore and discover various forms of entertainment.
+A place to explore and discover various forms of entertainment. Integrated News, Quiz and Jokes API along with firebase database.
 
 ### [Jarvis(Voice Assistant)](https://nikjarvis.netlify.app/) 
 Voice Assistant Developed Using HTML, CSS, JavaScript and Web Speech API.
