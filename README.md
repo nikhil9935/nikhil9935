@@ -1,21 +1,33 @@
- Hey, I'm Nikhil Maurya!
+# Hey there, I'm Nikhil Maurya! 👋
 
-🌐 Check out my Portfolio and connect with me on LinkedIn. Passionate about Front End Development, I've brought ideas to life in projects like Job Portal, Entertainment Hub, Jarvis Voice Assistant and many more using HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB and Firebase.
+Passionate about Front End Development, I love bringing ideas to life through code. I'm experienced in HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB, and Firebase. 🚀
 
-My Achievements:
+🌐 Check out my [Portfolio](https://nikhilportfoliowebsite.netlify.app/) and connect with me on [LinkedIn](https://www.linkedin.com/in/nikhil-maurya-7890091b9/).
 
-Open-Source Contributor, successfully cleared Hactoberfest 2022.
+## My Achievements 🏆:
 
-Reached the final round of Iimt Mind Installers Hackathon among 250 participants showcasing Teamwork and
-strong problem-solving skills despite not clearing the competition.
+- 🌟 Open-Source Contributor, cleared Hacktoberfest 2022.
+- 🚀 Finalist in Iimt Mind Installers Hackathon, showcasing teamwork and problem-solving skills.
 
-Portfolio: https://nikhilportfoliowebsite.netlify.app/
+## Projects 🛠️:
 
-LinkedIn: https://www.linkedin.com/in/nikhil-maurya-7890091b9/
+### [Job Portal](https://nikhil9935.github.io/hrapplicantconnect-model/)
+A platform connecting job applicants with potential employers.
 
-Project: Job Portal: https://nikhil9935.github.io/hrapplicantconnect-model/
+### [Entertainment Hub](https://nikentertainmenthub.netlify.app/)
+A place to explore and discover various forms of entertainment.
 
-Project: Entertainment Hub: https://nikentertainmenthub.netlify.app/
+### [Jarvis Voice Assistant]  <!-- If this is another project, you can add it here -->
+<!-- Add a brief description and link here -->
 
-🚀 Proficient in CPP, HTML/CSS, JavaScript, ReactJS and more, I thrive on creative problem-solving and collaboration. Feel free to reach out at nikhilmaurya9935@gmail.com. Let's build something amazing together!
+## Skills 🚀:
+
+- Front End Technologies: HTML, CSS, JavaScript, ReactJS
+- Back End Technologies: NodeJS, ExpressJS, MongoDB, Firebase
+- Proficient in C++
+
+## Get in Touch 📬:
+
+🚀 I thrive on creative problem-solving and collaboration. Let's build something amazing together! Feel free to reach out at nikhilmaurya9935@gmail.com. 💌
+
 
