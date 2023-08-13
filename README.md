@@ -1,6 +1,6 @@
 # Hey there, I'm Nikhil Maurya! 👋
 
-Passionate about Front End Development, I love bringing ideas to life through code. I'm experienced in HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB, and Firebase. 🚀
+Passionate about Front End Development, I love bringing ideas to life through code. I'm experienced in HTML, CSS, JavaScript, ReactJS and Firebase. 🚀
 
 🌐 Check out my [Portfolio](https://nikhilportfoliowebsite.netlify.app/) and connect with me on [LinkedIn](https://www.linkedin.com/in/nikhil-maurya-7890091b9/).
 
@@ -23,7 +23,6 @@ A place to explore and discover various forms of entertainment.
 ## Skills 🚀:
 
 - Front End Technologies: HTML, CSS, JavaScript, ReactJS
-- Back End Technologies: NodeJS, ExpressJS, MongoDB, Firebase
 - Proficient in C++
 
 ## Get in Touch 📬:
