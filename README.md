@@ -1,29 +1,13 @@
 # Hey there, I'm Nikhil Maurya! 👋
 
-Passionate about Front End Development, I love bringing ideas to life through code. I'm experienced in HTML, CSS, JavaScript, ReactJS, APIs and Firebase. 🚀
+Passionate about Full Stack Development, I love bringing ideas to life through code. 🚀
 
-🌐 Check out my [Portfolio](https://nikhilportfoliowebsite.netlify.app/) , [Resume](https://nikhilresumes.netlify.app/) and connect with me on [LinkedIn](https://www.linkedin.com/in/nikhil-maurya-7890091b9/).
+🌐 Check out my [Portfolio](https://nikhilportfoliowebsite.netlify.app/) and connect with me on [LinkedIn](https://www.linkedin.com/in/nikhil-maurya-7890091b9/).
 
 ## My Achievements 🏆:
 
 - 🌟 Open-Source Contributor, cleared [Hacktoberfest 2022](https://www.holopin.io/userbadge/cl93xh1jl669109lckuw34i2f).
 - 🚀 Finalist in [Iimt Mind Installers Hackathon](https://iimthackathon.netlify.app/), showcasing teamwork and problem-solving skills.
-
-## Projects 🛠️:
-
-### [Job Portal](https://nikhil9935.github.io/hrapplicantconnect-model/)
-A platform connecting job applicants with potential employers developed using ReactJS, NodeJS, ExpressJS and MongoDB.Uses the bcrypt library to hash a user's password with a cost factor 10.
-
-### [Entertainment Hub](https://nikentertainmenthub.netlify.app/)
-A place to explore and discover various forms of entertainment. Integrated News, Quiz and Jokes API along with firebase database.
-
-### [Jarvis(Voice Assistant)](https://nikjarvis.netlify.app/) 
-Voice Assistant Developed Using HTML, CSS, JavaScript and Web Speech API. API enabled task execution through natural voice commands.
-
-## Skills 🚀:
-
-- Front End Technologies: HTML, CSS, JavaScript, ReactJS
-- Proficient in C++
 
 ## Get in Touch 📬:
 
